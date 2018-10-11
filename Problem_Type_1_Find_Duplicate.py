@@ -1,8 +1,4 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      psingh
+ 
 #-------------------------------------------------------------------------------
 # Problem Statement 1:
 # Inputs: Consider an input array of Size N and can contain only
@@ -43,7 +39,7 @@ class ps1:
                return array[i]
             else:
                 x.add(array[i])
-    # This is nother technigue called negation. The value at each index
+    # This is another technique called negation. The value at each index
     # is read and the corresponding index(Equivalent to value) is multiplied
     # with -1. Finding the negative value will detect the Duplicate Element
     # This has TC: O(N) and SC: (1)
