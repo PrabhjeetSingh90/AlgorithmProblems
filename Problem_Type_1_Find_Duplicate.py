@@ -1,11 +1,15 @@
- 
 #-------------------------------------------------------------------------------
-# Problem Statement 1:
-# Inputs: Consider an input array of Size N and can contain only
-# values upto N-1. Consider there is only one Duplicate value for this example.
 #
-# Outputs:  Create As many Algoritms to find the duplicate and explain
-# w.r.t Time and Space Comlexity
+# Coder : Prabhjeet Singh 
+#
+#-------------------------------------------------------------------------------
+# Problem Statement:
+# Given an array nums containing n + 1 integers where each integer is between 
+# 1 and n (inclusive), prove that at least one duplicate number must exist. 
+# Assume that there is only one duplicate number, find the duplicate one.
+#
+# Problem Reference:
+# https://leetcode.com/problems/find-the-duplicate-number/description/
 #-------------------------------------------------------------------------------
 import array
 import time
