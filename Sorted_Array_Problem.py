@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
 #
-# Author:      Prabhjeet Singh
+# Coder:      Prabhjeet Singh
 #
 #-------------------------------------------------------------------------------
 # Given a sorted array nums, remove the duplicates in-place such that each
